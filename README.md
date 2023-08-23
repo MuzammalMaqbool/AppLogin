@@ -1,5 +1,7 @@
 # login_app
 
+"Welcome to the Flutter Login Page! This is a user-friendly login screen with cool 3D visuals, icons, and a neat password show/hide feature. Easily log in with flair and comfort. Elevate your app's look and feel with this stylish and practical design."
+
 A new Flutter project.
 
 ## Getting Started
